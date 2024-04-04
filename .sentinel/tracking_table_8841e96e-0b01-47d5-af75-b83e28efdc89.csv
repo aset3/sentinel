@@ -1,12 +1,10 @@
 FileName, CommitSha
-5-playbooks/MicrosoftSentinel-ChatGPT-Playbook (1).json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
-7-workbooks/Data+Collection+Rule+Toolkit.json,0fe98120303a0bf5fa3ab74efdc248997b26c33d
-4-hunting queries/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
 User+agent+search+for+log4j+exploitation+attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
-Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
-3-analytic rules/Process+executed+from+binary+hidden+in+Base64+encoded+file.json,99f736ea509f1d2614359f4a0e9bfe7276ab1227
-MicrosoftSentinel-ChatGPT-Playbook.json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
-2-parsers/Repository+Parser.json,cc4fae23499eb1908bbf617874d5cd9ca8e6a44d
 Log4j+vulnerability+exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
+3-analytic rules/Process+executed+from+binary+hidden+in+Base64+encoded+file.json,99f736ea509f1d2614359f4a0e9bfe7276ab1227
+4-hunting queries/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
 6-automation rules/Run-ChatGPT-Playbook.json,ddf46a2692825289e76fd09995a2d5c4bab437c7
+7-workbooks/Data+Collection+Rule+Toolkit.json,0fe98120303a0bf5fa3ab74efdc248997b26c33d
+Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+2-parsers/Repository+Parser.json,cc4fae23499eb1908bbf617874d5cd9ca8e6a44d
 
